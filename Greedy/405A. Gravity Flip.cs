@@ -1,6 +1,6 @@
 ﻿
 // Author : Mohamed Abdelbaky Tony 
-// Topic : Implementation 
+// Topic : Greedy 
 // Source : Codeforces 
 // Rate : 900
 // Problem Link : https://codeforces.com/contest/405/problem/A
