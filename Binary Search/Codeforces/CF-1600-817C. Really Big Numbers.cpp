@@ -1,4 +1,7 @@
-// Author : Mohamed EL Baky
+// Author : Mohamed Abdelbaky Tony 
+// Topic : Binary Search 
+// Source : Codeforces 
+// Rate : 1600
 // Problem Link : https://codeforces.com/problemset/problem/817/C
 
 #include <bits/stdc++.h>
