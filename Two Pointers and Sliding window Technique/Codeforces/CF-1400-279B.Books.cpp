@@ -1,5 +1,8 @@
-// Author : Mohamed Abdelbaky 
-// Problem Ling : https://codeforces.com/problemset/problem/279/B
+// Author : Mohamed Abdelbaky Tony 
+// Topic : Two pointers 
+// Source : Codeforces 
+// Rate : 1400
+// Problem Link : https://codeforces.com/problemset/problem/279/B
 
 #include<bits/stdc++.h>
 using namespace std;
