@@ -1,5 +1,8 @@
-// Author : Mohamed Abd EL Baky
-// Problem Link : https://codeforces.com/problemset/problem/371/C 
+// Author : Mohamed Abdelbaky Tony 
+// Topic : Binary Search 
+// Source : Codeforces 
+// Rate : 1600
+// Problem Link : https://codeforces.com/problemset/problem/371/C
 
 #include<bits/stdc++.h>
 using namespace std;
