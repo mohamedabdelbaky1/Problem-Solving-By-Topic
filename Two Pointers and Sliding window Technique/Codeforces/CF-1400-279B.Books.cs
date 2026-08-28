@@ -1,3 +1,9 @@
+// Author : Mohamed Abdelbaky Tony 
+// Topic : Two pointers 
+// Source : Codeforces 
+// Rate : 1400
+// Problem Link : https://codeforces.com/problemset/problem/279/B
+
 using System;
 using System.IO;
 
